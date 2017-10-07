@@ -26,6 +26,7 @@ public interface ISeckillDao {
 	Seckill queryById(long seckillId);
 	
 	
+	
 	/**
      * 根据偏移量查询秒杀商品列表
      * @param offset
